@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حسابداری گلخانه</string>
+    <string name="dashboard_tab">داشبورد</string>
+    <string name="transactions_tab">تراکنش‌ها</string>
+    <string name="add_tab">ثبت جدید</string>
+    <string name="harvest_tab">برداشت و فروش</string>
+    <string name="debts_tab">بدهی و طلب</string>
+    <string name="backup_tab">پشتیبان‌گیری</string>
+    <string name="ai_assistant_tab">دستیار هوشمند</string>
+</resources>

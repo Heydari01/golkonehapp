@@ -1,0 +1,6 @@
+{
+  "name": "حسابداری گلخانه",
+  "description": "سامانه مدیریت مالی، درآمدها، هزینه‌ها و بدهی‌های گلخانه با تقویم شمسی و خروجی اکسل",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_emerald_primary">#16a34a</color>
+    <color name="brand_emerald_dark">#14532d</color>
+    <color name="brand_emerald_light">#dcfce7</color>
+    <color name="surface_background">#f4f7f5</color>
+    <color name="color_expense">#dc2626</color>
+    <color name="color_income">#16a34a</color>
+    <color name="color_debt">#d97706</color>
+</resources>
